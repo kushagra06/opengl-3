@@ -1,0 +1,13 @@
+Press p for player's view
+Press n for normal view
+Press t for top view
+Press z to zoom in 
+Press x to zoom out
+Drag mouse to pan
+Use w,s,a,d to move the player
+Press esc to quit
+-----------------------------------------------
+Light blue circle indicate destination
+White circles are obstacles
+
+After losing a life the player spawns again at the original postion.

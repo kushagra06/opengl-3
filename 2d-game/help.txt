@@ -1,0 +1,13 @@
+-------SNOWMAN HUNT---------
+
+*This game, snowman hunt, is a simple game where a snowman tries to hit some targets to fetch points.
+*For each target that the snowman hits, it get some points.
+*There is an obstacle in between which moves vertically, which has to be dodged.
+*You can regulate the speed of your projectile as you wish.
+
+----CONTROLS----
+*To move cannon up: 'w'
+*To move cannon down: 's'
+*To shoot projectile: 'space'. The more you press 'space' key, the more speed your projectile gets.
+*To zoom in: 'z';
+*To zoom out: 'x';
